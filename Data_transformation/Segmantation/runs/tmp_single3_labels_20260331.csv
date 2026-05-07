@@ -1,0 +1,4 @@
+rgb_path,annotations_path,type,accident_time,accident_frame,center_x,center_y,x1,y1,x2,y2,map,weather,camera_position,no_frames,duration,height,width,annotations_start_offset
+videos/single/Town07_single_clear_00_aug2.mp4,video_annotations/Town07_single_clear_00.json.gz,single,15.15,303,0.40859375,0.4337962962962963,0.359375,0.3888888888888889,0.4578125,0.4787037037037037,Town07,clear,0,375,18.75,1080,1920,65
+videos/single/Town07_single_clear_01_aug2.mp4,video_annotations/Town07_single_clear_01.json.gz,single,13.7,274,0.4200520833333333,0.6685185185185185,0.3755208333333333,0.6018518518518519,0.4645833333333333,0.7351851851851852,Town07,clear,1,314,15.7,1080,1920,94
+videos/single/Town07_single_clear_03_aug2.mp4,video_annotations/Town07_single_clear_03.json.gz,single,9.8,196,0.5453125,0.7398148148148148,0.5197916666666667,0.6611111111111111,0.5708333333333333,0.8185185185185185,Town07,clear,3,210,10.5,1080,1920,156

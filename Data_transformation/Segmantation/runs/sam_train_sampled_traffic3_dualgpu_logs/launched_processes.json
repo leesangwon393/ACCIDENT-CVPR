@@ -1,0 +1,16 @@
+[
+  {
+    "gpu": "0",
+    "pid": 2336218,
+    "labels_csv": "/workspace/yuyeon/Experiments/17. SSSSS/runs/sam_train_sampled_traffic3_dualgpu_logs/labels_excluding_single_shard0.csv",
+    "output_root": "/workspace/yuyeon/Experiments/17. SSSSS/runs/sam_train_sampled_traffic3_gpu0",
+    "log_path": "/workspace/yuyeon/Experiments/17. SSSSS/runs/sam_train_sampled_traffic3_dualgpu_logs/gpu0_run.log"
+  },
+  {
+    "gpu": "1",
+    "pid": 2336219,
+    "labels_csv": "/workspace/yuyeon/Experiments/17. SSSSS/runs/sam_train_sampled_traffic3_dualgpu_logs/labels_excluding_single_shard1.csv",
+    "output_root": "/workspace/yuyeon/Experiments/17. SSSSS/runs/sam_train_sampled_traffic3_gpu1",
+    "log_path": "/workspace/yuyeon/Experiments/17. SSSSS/runs/sam_train_sampled_traffic3_dualgpu_logs/gpu1_run.log"
+  }
+]
